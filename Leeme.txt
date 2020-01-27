@@ -1,0 +1,5 @@
+Ejercicio01 - Hola mundo
+Ejercicio02 - Tipos de datos
+Ejercicio03 - Estructuras de control - IF
+Ejercicio04 - Estructuras de control - IF-ELSE - Jubilacion
+Ejercicio05 - Estructuras de control - IF-ELSE - Diagnostico medico
