@@ -3,3 +3,6 @@ Ejercicio02 - Tipos de datos
 Ejercicio03 - Estructuras de control - IF
 Ejercicio04 - Estructuras de control - IF-ELSE - Jubilacion
 Ejercicio05 - Estructuras de control - IF-ELSE - Diagnostico medico
+Ejercicio06 - Estructuras de control - Switch
+Ejercicio07 - Estructuras de control - For
+Ejercicio08 - Adivino
