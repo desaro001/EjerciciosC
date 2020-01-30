@@ -11,4 +11,4 @@ Ejercicio10 - Arrays - Vector - Declaración e inicialización
 Ejercicio11 - Arrays - Vector - Recorrer estructura
 Ejercicio12 - Arrays 2 dimensiones (matrices)
 Ejercicio13 - 3 en raya
-Ejercicio14 - Paso de parámetros por referencia y por valor
+Ejercicio14 - Paso de parámetros
